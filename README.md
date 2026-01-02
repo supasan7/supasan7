@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Sai! 👋
 
-<!--
-**supasan-sai/supasan-sai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Junior Backend Developer (Java / Spring Boot)
+I am a passionate developer focusing on building scalable backend systems and RESTful APIs. I also have experience with frontend technologies like React, allowing me to understand the full software development lifecycle.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+**Backend:**
+- ☕ **Languages:** Java
+- 🍃 **Frameworks:** Spring Boot, Spring Security, Spring Data JPA
+- 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB
+
+**Frontend & Tools:**
+- ⚛️ **Library:** React.js
+- 🐳 **DevOps:** Docker (Basic), Git
+- 🔧 **Tools:** Maven, Postman, IntelliJ IDEA
+  
+---
+
+### 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/supasansai27/
+- 📧 Email: supasan4605@gmail.com / supasan.forwork@gmail.com
