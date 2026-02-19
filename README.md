@@ -1,6 +1,6 @@
 # Hi there, I'm Sai! 👋
 
-### 👨‍💻 Junior Backend Developer 
+### 👨‍💻 Junior Software Developer
 I am a passionate developer focusing on building scalable backend systems and RESTful APIs. I also have experience with frontend technologies like React, allowing me to understand the full software development lifecycle.
 
 ---
