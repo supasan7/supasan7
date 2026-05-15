@@ -13,8 +13,11 @@ I am a passionate developer focusing on building scalable backend systems and RE
 
 **Frontend & Tools:**
 - ⚛️ **Library:** React.js, Next.js
-- 🐳 **DevOps:** Docker, Git
+- 🐳 **DevOps:** Docker, Git, GitHub
 - 🔧 **Tools:** Maven, Postman, IntelliJ IDEA
+
+**AI Tools**
+- 🤖 **AI Agent:** Claude, Codex, Lovable, v0, Bolt, Gemini, nbLM
   
 ---
 
