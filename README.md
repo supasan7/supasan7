@@ -1,26 +1,29 @@
-# Hi there, I'm Sai! 👋
+# Sai (Supasan)
+### Junior Software Developer
 
-### 👨‍💻 Junior Software Developer
-I am a passionate developer focusing on building scalable backend systems and RESTful APIs. I also have experience with frontend technologies like React, allowing me to understand the full software development lifecycle.
+Passionate developer focused on building scalable backend systems and RESTful APIs, with hands-on experience across the full stack — from Spring Boot and Node.js on the server side to React and Next.js on the client.
 
 ---
 
-### 🛠 Tech Stack
-**Backend:**
-- ☕ **Languages:** Java, JavaScript, Python, TypeScript
-- 🍃 **Frameworks:** Spring Boot, Node, Flask, Nest
-- 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB
+## 🛠 Tech Stack
 
-**Frontend & Tools:**
-- ⚛️ **Library:** React.js, Next.js
-- 🐳 **DevOps:** Docker, Git, GitHub
-- 🔧 **Tools:** Maven, Postman, IntelliJ IDEA
+### Backend
+**Languages:** Java · JavaScript · Python · TypeScript · Go
+**Frameworks:** Spring Boot · Express · NestJS · Gin  
+**Databases:** MySQL · PostgreSQL · MongoDB
 
-**AI Tools**
-- 🤖 **AI Agent:** Claude, Codex, Lovable, v0, Bolt, Gemini, nbLM
-  
+### Frontend
+**Libraries/Frameworks:** React.js · Next.js
+
+### DevOps & Tooling
+Docker · Git · GitHub · Maven · Postman · IntelliJ IDEA
+
+### AI Tools
+Claude · Codex · Lovable · v0 · Bolt · Gemini · NotebookLM
+
 ---
 
-### 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/supasansai27/
-- 📧 Email: supasan4605@gmail.com / supasan.forwork@gmail.com
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/supasansai27/)
+- 📧 supasan4605@gmail.com
+- 📧 supasan.forwork@gmail.com
